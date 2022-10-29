@@ -1,4 +1,6 @@
-### "With balanced steps"
+### "In this day and age, ignorance is a choice, and people are still choosing ignorance.
+Now retardation comes in all shapes and sizes on the internet..." of the Filth, Francis
+    
 
 <div align="center">
   <a href="https://github.com/CancelOnly">
