@@ -1,5 +1,5 @@
 ### "In this day and age, ignorance is a choice, and people are still choosing ignorance.
-Now retardation comes in all shapes and sizes on the internet..." of the Filth, Francis
+Now retardation comes in all shapes and sizes on the internet..." - Francis of the Filth
     
 
 <div align="center">
