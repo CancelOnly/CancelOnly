@@ -1,4 +1,4 @@
-### sup
+### "With balanced steps"
 
 <div align="center">
   <a href="https://github.com/CancelOnly">
