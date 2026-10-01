@@ -13,7 +13,7 @@
 ░                                ░                         
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=full+stack+dev+%2F+systems+programmer;rust+%C2%B7+go+%C2%B7+typescript+enjoyer;security+researcher+%2F+not+a+kali+geek;arch+btw+(or+debian+depending+on+mood))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Linux+Enjoyer;I+dont't+use+arch+btw+%28cachyOS%29;See+you+space+cowboy)](https://git.io/typing-svg)
 
 </div>
 
