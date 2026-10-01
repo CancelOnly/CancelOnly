@@ -13,8 +13,7 @@
 ░                                ░                         
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Linux+Enjoyer;I+dont't+use+arch+btw+%28cachyOS%29;See+you+space+cowboy)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=linux+enjoyer+;see+you+space+cowboy)](https://git.io/typing-svg)
 </div>
 
 
