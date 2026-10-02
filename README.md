@@ -22,9 +22,9 @@
 ```
       .   .        cancel@only
      / \ / \       ---------------------------
-    (   v   )      self:     fullstack / guitarrist
+    (   v   )      self:     linux / fullstack / guitarrist
      \     /       os:       cachyOS
-    /       \      wm:       kde plasma + nyx shell
+    /       \      de/wm:    kde plasma + nyx shell
     \       /      editor:   vscodium
      '     '   
 ```
