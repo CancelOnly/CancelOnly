@@ -21,13 +21,11 @@
 
 <div align="center">
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0">
 <tr>
 <td valign="middle">
 
-<a href="https://tenor.com/view/i-drive-gif-9280350723013648355">
 <img src="https://media1.tenor.com/m/gMpt0CxEn-MAAAAd/i-drive.gif" width="180">
-</a>
 
 </td>
 <td valign="middle">
