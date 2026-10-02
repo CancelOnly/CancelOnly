@@ -19,21 +19,15 @@
 
 ---
 
-<div align="center">
-
-<div style="display: inline-block; vertical-align: middle; margin-right: 20px;">
-<img src="https://media1.tenor.com/m/gMpt0CxEn-MAAAAd/i-drive.gif" width="180">
-</div>
-
-<div style="display: inline-block; vertical-align: middle; text-align: left;">
-<pre>
-cancel@only
----------------------------
-self:     fullstack / guitarrist
-os:       cachyOS
-wm:       kde plasma + nyx shell
-editor:   vscodium
-</pre>
-</div>
-
-</div>
+<p align="center">
+  <img src="https://media1.tenor.com/m/gMpt0CxEn-MAAAAd/i-drive.gif" width="180">
+  &nbsp;&nbsp;&nbsp;
+  <span>
+    <b>cancel@only</b><br>
+    ---------------------------<br>
+    self: &nbsp;&nbsp;&nbsp;&nbsp; fullstack / guitarrist<br>
+    os: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; cachyOS<br>
+    wm: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; kde plasma + nyx shell<br>
+    editor: &nbsp;&nbsp; vscodium
+  </span>
+</p>
