@@ -22,7 +22,7 @@
 ```
       .   .        cancel@only
      / \ / \       ---------------------------
-    (   v   )      self:     fullstack / guitarrist / 
+    (   v   )      self:     fullstack / guitarrist 
      \     /       os:       cachyOS
     /       \      wm:       kde plasma + nyx shell
     \       /      editor:   vscodium 
@@ -30,6 +30,28 @@
 ```
 ---
 
+**Languages**
+
+![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
+![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
+![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+
+---
+
+**Tools**
+
+![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg)
+![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![Raspberry Pi](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg)
+
+---
+
+**OS**
+
+![Kali Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg)
+![Arch Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg)
+
+---
 
 ### "In this day and age, ignorance is a choice, and people are still choosing ignorance.
 Now retardation comes in all shapes and sizes on the internet..." - Francis of the Filth
