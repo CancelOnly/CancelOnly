@@ -13,7 +13,8 @@
 ░                                ░                         
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=F7F7F7&center=true&vCenter=true&width=520&lines=linux+enjoyer;see+you+space+cowboy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=14\&pause=1000\&color=F7F7F7\&center=true\&vCenter=true\&width=520\&lines=linux+enjoyer;see+you+space+cowboy)](https://git.io/typing-svg)
+
 </div>
 
 ---
@@ -45,6 +46,7 @@ editor:   vscodium
 </table>
 
 </div>
+
 ---
 
 **Languages**
@@ -71,7 +73,5 @@ editor:   vscodium
 ---
 
 ### "In this day and age, ignorance is a choice, and people are still choosing ignorance.
-Now retardation comes in all shapes and sizes on the internet..." - Francis of the Filth
-    
 
-</div>
+Now retardation comes in all shapes and sizes on the internet..." - Francis of the Filth
