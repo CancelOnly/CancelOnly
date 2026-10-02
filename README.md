@@ -54,5 +54,6 @@
 
 ---
 
-“In this day and age, ignorance is a choice, and people are still choosing ignorance.”
-— Francis of the Filth
+> *“In this day and age, ignorance is a choice, and people are still choosing ignorance.”*
+> — **Francis of the Filth**
+
