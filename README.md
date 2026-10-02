@@ -18,6 +18,27 @@
 
 ---
 
+```html
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+<img src="[URL_DO_GIF](https://tenor.com/view/i-drive-gif-9280350723013648355)" width="180">
+
+</td>
+<td>
+
+```text
+cancel@only
+---------------------------
+self:     fullstack / guitarrist
+os:       cachyOS
+wm:       kde plasma + nyx shell
+editor:   vscodium
+
+
 ```
       .   .        cancel@only
      / \ / \       ---------------------------
