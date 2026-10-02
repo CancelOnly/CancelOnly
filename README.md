@@ -18,27 +18,33 @@
 
 ---
 
-<div class="tenor-gif-embed"
-     data-postid="9280350723013648355"
-     data-share-method="host"
-     data-aspect-ratio="1"
-     data-width="180%">
-  <a href="https://tenor.com/view/i-drive-gif-9280350723013648355">
-    I Drive GIF
-  </a>
+<div align="center">
+
+<table>
+<tr>
+<td valign="middle">
+
+<a href="https://tenor.com/view/i-drive-gif-9280350723013648355">
+<img src="https://media1.tenor.com/m/gMpt0CxEn-MAAAAd/i-drive.gif" width="180">
+</a>
+
+</td>
+<td valign="middle">
+
+<pre>
+cancel@only
+---------------------------
+self:     fullstack / guitarrist
+os:       cachyOS
+wm:       kde plasma + nyx shell
+editor:   vscodium
+</pre>
+
+</td>
+</tr>
+</table>
+
 </div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
-```
-      .   .        cancel@only
-     / \ / \       ---------------------------
-    (   v   )      self:     fullstack / guitarrist 
-     \     /       os:       cachyOS
-    /       \      wm:       kde plasma + nyx shell
-    \       /      editor:   vscodium 
-     '     '       
-```
 ---
 
 **Languages**
