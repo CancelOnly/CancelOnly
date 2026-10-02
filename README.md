@@ -31,7 +31,7 @@
 
 ---
 
-**Languages**
+###Languages
 
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
@@ -39,7 +39,7 @@
 
 ---
 
-**Tools**
+###Tools
 
 ![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
@@ -47,7 +47,7 @@
 
 ---
 
-**OS**
+###OS
 
 ![Kali Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg)
 ![Arch Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg)
