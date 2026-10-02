@@ -53,3 +53,6 @@
 ![Arch Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg)
 
 ---
+
+“In this day and age, ignorance is a choice, and people are still choosing ignorance.”
+— Francis of the Filth
