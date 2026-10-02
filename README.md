@@ -18,25 +18,16 @@
 
 ---
 
-```html
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-<img src="[URL_DO_GIF](https://tenor.com/view/i-drive-gif-9280350723013648355)" width="180">
-
-</td>
-<td>
-
-```text
-cancel@only
----------------------------
-self:     fullstack / guitarrist
-os:       cachyOS
-wm:       kde plasma + nyx shell
-editor:   vscodium
+<div class="tenor-gif-embed"
+     data-postid="9280350723013648355"
+     data-share-method="host"
+     data-aspect-ratio="1"
+     data-width="180%">
+  <a href="https://tenor.com/view/i-drive-gif-9280350723013648355">
+    I Drive GIF
+  </a>
+</div>
+<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ```
