@@ -21,14 +21,14 @@
 
 <div align="center">
 
-<table border="0" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="middle">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td valign="middle" style="border: none;">
 
 <img src="https://media1.tenor.com/m/gMpt0CxEn-MAAAAd/i-drive.gif" width="180">
 
 </td>
-<td valign="middle">
+<td valign="middle" style="border: none;">
 
 <pre>
 cancel@only
