@@ -21,14 +21,9 @@
 
 <div align="center">
 
-<table style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td valign="middle" style="border: none;">
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
 <img src="https://media1.tenor.com/m/gMpt0CxEn-MAAAAd/i-drive.gif" width="180">
-
-</td>
-<td valign="middle" style="border: none;">
 
 <pre>
 cancel@only
@@ -39,8 +34,6 @@ wm:       kde plasma + nyx shell
 editor:   vscodium
 </pre>
 
-</td>
-</tr>
-</table>
+</div>
 
 </div>
