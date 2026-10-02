@@ -36,14 +36,24 @@
 ![JavaScript](https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript2.svg)
 ![Shell](https://ziadoua.github.io/m3-Markdown-Badges/badges/Shell/shell2.svg)
 ![Python](https://ziadoua.github.io/m3-Markdown-Badges/badges/Python/python3.svg)
+![CSS](https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg)
+![HTML](https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg)
 
 ---
 
 **Tools**
 
-![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg)
 ![Git](https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg)
+![Node.js](https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg)
 ![Raspberry Pi](https://ziadoua.github.io/m3-Markdown-Badges/badges/RaspberryPI/raspberrypi1.svg)
+
+---
+
+**Creative**
+
+![Photoshop](https://ziadoua.github.io/m3-Markdown-Badges/badges/Photoshop/photoshop1.svg)
+![Premiere](https://ziadoua.github.io/m3-Markdown-Badges/badges/Premiere/premiere1.svg)
+![After Effects](https://ziadoua.github.io/m3-Markdown-Badges/badges/AfterEffects/aftereffects1.svg)
 
 ---
 
@@ -51,7 +61,6 @@
 
 ![Kali Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg)
 ![Arch Linux](https://ziadoua.github.io/m3-Markdown-Badges/badges/Arch/arch1.svg)
-
 ---
 
 > *“In this day and age, ignorance is a choice, and people are still choosing ignorance.”*
