@@ -20,13 +20,13 @@
 ---
 
 ```
-      .   .        cancel@only
-     / \ / \       ---------------------------
-    (   v   )      self:     linux / fullstack / guitarrist
-     \     /       os:       cachyOS
-    /       \      de/wm:    kde plasma + nyx shell
-    \       /      editor:   vscodium
-     '     '   
+                   cancel@only
+                   ---------------------------
+                   self:     linux / fullstack / guitarrist
+                   os:       cachyOS
+                   de/wm:    kde plasma + nyx shell
+                   editor:   vscodium
+  
 ```
 
 ---
